@@ -11,7 +11,7 @@ const Label = styled.label`
 const Select = styled.select`
   width: 100%;
   font-size: 20px;
-  color: #7e30e1;
+  color: #49108B;
   font-family: "Lato", sans-serif;
   font-weight: 700;
   border-radius: 5px;
